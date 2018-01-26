@@ -1,0 +1,65 @@
+{
+	"characters" : [
+
+		{
+			"firstName" : "Tina",
+			"lastName" : "Carter",
+			"image" : "tina-carter.jpg",
+			"bio": "1bio text for these people who ever they are"
+		},
+		{
+			"firstName": "Andrew",
+			"lastName" : "Briggs",
+			"image" : "andrew-briggs.jpg",
+			"bio": "2bio text for these people who ever they are"
+		},
+		{
+			"firstName": "Masood",
+			"lastName" : "Ahmed",
+			"image" : "masood-ahmed.jpg",
+			"bio": "3bio text for these people who ever they are"
+		},
+		{
+			"firstName": "Dorothy",
+			"lastName" : "Branning",
+			"image" : "dorothy-branning.jpg",
+			"bio": "4bio text for these people who ever they are"
+		},
+		{
+			"firstName": "Jack",
+			"lastName" : "Branning",
+			"image" : "jack-branning.jpg",
+			"bio": "5bio text for these people who ever they are"
+		},
+		{
+			"firstName": "Les",
+			"lastName" : "Coker",
+			"image" : "les-coker.jpg",
+			"bio": "6bio text for these people who ever they are"
+		},
+		{
+			"firstName": "Linda",
+			"lastName" : "Carter",
+			"image" : "linda-carter.jpg",
+			"bio": "7bio text for these people who ever they are"
+		},
+		{
+			"firstName": "Jay",
+			"lastName" : "Brown",
+			"image" : "jay-brown.jpg",
+			"bio": "8bio text for these people who ever they are"
+		},
+		{
+			"firstName" : "Paul",
+			"lastName" : "Coker",
+			"image" : "paul-coker.jpg",
+			"bio": "9bio text for these people who ever they are"
+		},
+		{
+			"firstName" : "Steven",
+			"lastName" : "Beale",
+			"image" : "steven-beale.jpg",
+			"bio": "10bio text for these people who ever they are"
+		}
+]
+}
