@@ -2,9 +2,9 @@
   <div class="view-full-content" v-on:click="goHome">
     <router-link to="/" class="close-button">Close</router-link>
     <div class="character-pic">
-      <img src="static/images/andrew-briggs.jpg" />
+      <img v-bind:src="'static/images/' + character.image" />
     </div>
-    <div class="bio">Aliquam erat volutpat. Ut ultrices nisi enim, eget condimentum urna condimentum sit amet. Proin vulputate malesuada nisl nec elementum. Phasellus mi est, laoreet quis molestie sit amet, cursus sit amet enim.</div>
+    <div> {{ character.bio }}</div>
   </div>
 </template>
 

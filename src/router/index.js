@@ -17,6 +17,11 @@ export default new Router({
       path: '/:pageId',
       name: 'Character',
       component: Character
+    },
+    {
+      path: '*',
+      name: 'Error',
+      component: Error
     }
   ]
 })
